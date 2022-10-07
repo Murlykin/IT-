@@ -1,0 +1,60 @@
+html {
+  box-sizing: border-box;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* .conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+
+    outline: 2px solid tomato;
+} */
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    /* position: absolute; */
+    /* z-index: 1; */
+ 
+    /* background-image: url(../img/brooke-lark-8beTH4VkhLI-unsplash\ 1.png); */
+    /* background-repeat: no-repeat; */
+
+}
+.gallery__try {
+       width: 100%;
+    height: 94px;
+    background-color: #84A178;
+}
+.hidden-visally {
+    position: fixed;
+    transform: scale(0);
+}
+.foto {
+    display: block;
+    margin: 0 auto;
+    width: 1013px;
+    height: 422px;
+
+    transform: translate(0%, -34px);
+    padding-top: -34px;
+    padding-left: 93px;
+    padding-right: 94px;
+    /* outline: 2px solid tomato; */
+}
+.gallery__picture {
+   position: absolute;
+   top: 100px;
+        background-image: url(../img/Frame\ 18.png);
+            width: 1200px;
+                height: 1228px;
+                /* background-repeat: no-repeat; */
+    /* display: block;
+        margin: 0 auto; */
+}
