@@ -54,7 +54,7 @@ html {
         background-image: url(../img/Frame\ 18.png);
             width: 1200px;
                 height: 1228px;
-                /* background-repeat: no-repeat; */
+                background-repeat: no-repeat;
     /* display: block;
         margin: 0 auto; */
 }
