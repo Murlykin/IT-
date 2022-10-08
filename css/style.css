@@ -38,13 +38,13 @@ html {
     transform: scale(0);
 }
 
-.foto {
+.gallery__foto {
     display: block;
     margin: 0 auto;
     width: 1013px;
     height: 422px;
 
-    transform: translate(0%, -34px);
+    /* transform: translate(0%, -34px); */
     margin-top:-34px;
     padding-left: 93px;
     padding-right: 94px;
