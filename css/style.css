@@ -45,7 +45,7 @@ html {
     height: 422px;
 
     transform: translate(0%, -34px);
-    padding-top: -34px;
+    margin-top:-34px;
     padding-left: 93px;
     padding-right: 94px;
     /* outline: 2px solid tomato; */
